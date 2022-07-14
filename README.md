@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Think-green
-- 👀 I’m interested in ...Software Engineering
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML, CSS, Javascript and Python
+- 💞️ I’m looking to collaborate on Apps and Websites
 - 📫 How to reach me ...
 
 <!---
